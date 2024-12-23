@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "mocha" // Replace "mocha" with your test framework or command
+    "test": "mocha" 
     
   },
   "keywords": [],
